@@ -28,6 +28,14 @@
             "context": 131072,
             "output": 65536
           }
+        },
+        "/media/issola/issolab/models/gguf/unsloth/qwen3.8/27B-UD-IQ2_S/Qwen3.8-27B-UD-Q2_K_XL.gguf": {
+          "name": "qwen3.8-27B-Q_2",
+          "limit": {
+            "context": 86016,
+            "input": 65536,
+            "output": 65536
+          }
         }
       }
     }
